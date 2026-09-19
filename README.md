@@ -7,7 +7,7 @@ A simple and interactive **To-Do List** web application built with **HTML, CSS, 
 🔗 **[View Live Demo](https://elenahedayat.github.io/make-it-happen-todo-list/)**
 
 
-## 📸 Screenshot
+## 📸 Screenshot 
 
 ![To-Do List Screenshot](Screenshot.png)
 
