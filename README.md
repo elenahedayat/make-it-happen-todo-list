@@ -9,7 +9,7 @@ A simple and interactive **To-Do List** web application built with **HTML, CSS, 
 
 ## 📸 Screenshot
 
-
+![To-Do List Screenshot](Screenshot.png)
 
 ## ✨ Features
 
