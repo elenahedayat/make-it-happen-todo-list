@@ -9,7 +9,15 @@ A simple and interactive **To-Do List** web application built with **HTML, CSS, 
 
 ## 📸 Screenshot 
 
-![To-Do List Screenshot](Screenshot.png)
+### 🖥️ Desktop — Light Mode
+
+
+![Desktop Light Mode](Screenshot-light-mode.png)
+
+### 🖥️ Desktop — Dark Mode
+
+
+![Desktop Dark Mode](Screenshot-dark-mode.png)
 
 ## ✨ Features
 
